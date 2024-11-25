@@ -19,7 +19,7 @@ Este repositório contém uma série de exercícios de programação. Os desafio
 
 7. **[Ordenar A, B, C](EXE07/src/br/edu/principal/Principal.java)**: Receber um número inteiro e três reais. Ordenar A, B e C conforme o valor de I (1, 2 ou 3).
 
-8. **[Menu de Opções](EXE08/src/br/edu/principal/Principal.java)**: Mostrar um menu com opções de soma ou raiz quadrada e executar a operação escolhida.
+8. **[Menu de Opções](EXE08/src/br/edu/pricipal/Principal.java)**: Mostrar um menu com opções de soma ou raiz quadrada e executar a operação escolhida.
 
 9. **[Data e Hora](EXE09/src/br/edu/principal/Principal.java)**: Mostrar a data e a hora do sistema no formato "DD/MM/AAAA – mês por extenso e hora:minuto".
 
